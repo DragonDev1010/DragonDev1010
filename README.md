@@ -3,8 +3,6 @@ I am a ***Senior Full-stack Engineer*** with 6 years experience.
   
 ## **Main Skills:**  
 
-[![My Skills](https://skills.thijs.gg/icons?i=react,vue,nextjs,nodejs,express,nuxtjs,py,django,ts,js,html,css,d3,mysql,mongodb,git,figma)](https://skills.thijs.gg)
-
 [![My Skills](https://skillicons.dev/icons?i=react,vue,nodejs,nextjs,nuxtjs,py,django,ts,js,html,css,d3,mysql,mongodb,solidity,aws,linux,git,figma)](https://skillicons.dev)
 
 ## **My Strength :**
