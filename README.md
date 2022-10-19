@@ -1,28 +1,22 @@
-### hey there 
-
-
-![](https://visitor-badge.glitch.me/badge?page_id=DragonDev1010.DragonDev1010&left_color=green&right_color=red)
-
-<br />
-
-Hello!
-I am a senior full-stack developer with 6 years experience.
+### Hello!
+# I am a _Senior Full-stack Engineer_ with 6 years experience.
   
-**languages and tools:**  
+**Main Skills:**  
 
 [![My Skills](https://skills.thijs.gg/icons?i=react,vue,nodejs,nextjs,nuxtjs,py,ts,js,html,css,mysql,mongodb,git,figma)](https://skills.thijs.gg)
 
 
-My Strength : 
+**My Strength :**
  - Converting from Figma UI design into pixel-perfect website using React, CSS, Tailwind CSS
  - Developing mobile responsive using Flex-Display without fixed-pixel width and height
  - Design and developing fast and robust REST API using Express and Django
 
-My Achievement : 
+**My Achievement :**
  - Healthcare, e-Commerce, Real Estate, SaaS, Cryptocurrency
 
 
 
+![](https://visitor-badge.glitch.me/badge?page_id=DragonDev1010.DragonDev1010&left_color=green&right_color=red)
 
 
 📈 my github stats
