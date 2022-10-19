@@ -1,5 +1,5 @@
-### Hello!
-# I am a _Senior Full-stack Engineer_ with 6 years experience.
+## Hello!
+## I am a _Senior Full-stack Engineer_ with 6 years experience.
   
 **Main Skills:**  
 
@@ -7,12 +7,13 @@
 
 
 **My Strength :**
- - Converting from Figma UI design into pixel-perfect website using React, CSS, Tailwind CSS
- - Developing mobile responsive using Flex-Display without fixed-pixel width and height
- - Design and developing fast and robust REST API using Express and Django
+ - Converting from Figma UI design into ***Pixel-Perfect*** website using React, CSS, Tailwind CSS
+ - Developing ***Mobile Responsive*** using Flex-Display without fixed-pixel width and height
+ - Design and developing fast and robust ***REST API*** using Express and Django
+ - Deep knowledge and rich hands-on experience in ***Blockchain Projects*** including NFT, DAO, Swap and Token bridge
 
 **My Achievement :**
- - Healthcare, e-Commerce, Real Estate, SaaS, Cryptocurrency
+ - Healthcare, e-Commerce, Real Estate, SaaS, Blockchain
 
 
 
