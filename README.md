@@ -1,5 +1,5 @@
 ## Hello!
-## I am a _Senior Full-stack Engineer_ with 6 years experience.
+I am a ***Senior Full-stack Engineer*** with 6 years experience.
   
 **Main Skills:**  
 
