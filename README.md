@@ -1,4 +1,4 @@
-## Hello!
+## Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
 I am a ***Senior Full-stack Engineer*** with 6 years experience.
   
 ## **Main Skills:**  
