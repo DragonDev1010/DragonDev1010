@@ -24,6 +24,9 @@ I am a ***Senior Full-stack Engineer*** with 8 years experience.
 📈 **My Github Stats**
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=DragonDev1010&show_icons=true&locale=en&layout=compact" alt="smarsden007" /></p>
 <p> <img src="https://github-readme-stats.vercel.app/api?username=DragonDev1010&show_icons=true&theme=gotham" alt="DragonDev1010" />
+  
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=DragonDev1010)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
