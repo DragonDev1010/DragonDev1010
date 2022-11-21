@@ -18,6 +18,7 @@ I am a ***Senior Full-stack Engineer*** with 8 years experience.
 
 ![](https://visitor-badge.glitch.me/badge?page_id=DragonDev1010.DragonDev1010&left_color=green&right_color=red)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 📈 **My Github Stats**
 
